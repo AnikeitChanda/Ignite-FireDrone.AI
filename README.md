@@ -32,11 +32,11 @@ The `./utilities` folder has a few scripts that we used throughout our developme
 We used `run_end.py` to end runs that ended unexpectedly and `frameGrab.py` to compile a folder of frames and stiched images to use in our model building. The `run_history.py` generates `last_run.json` to look at the details of our last run which can be validated using `validation.py`.  We also used `ws.py` to interact with our drone through the python shell.
 
 ## Examples
-![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame211304Percent.png%20.png)
-Classification: Fire
-![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame211304Mask.png)
-Corresponding Mask for Complex Scoring of the Scene
-![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame221204Percentpng.png)
+![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame211304Percent.png%20.png)\
+Classification: Fire\
+![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame211304Mask.png)\
+Corresponding Mask for Complex Scoring of the Scene\
+![alt text](https://github.com/AnikeitChanda/Ignite-FireDrone.AI/blob/master/img/frame221204Percentpng.png)\
 Classification: No Fire
 
 
